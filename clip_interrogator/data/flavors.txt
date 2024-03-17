@@ -1,9 +1,6 @@
 highly detailed
 sharp focus
 intricate
-digital painting
-illustration
-octane render
 smooth
 8 k
 elegant
@@ -15,7 +12,6 @@ cinematic lighting
 detailed
 4 k
 photorealistic
-unreal engine
 masterpiece
 realistic
 hd
@@ -30,19 +26,15 @@ high quality
 hyper realistic
 ultra realistic
 unreal engine 5
-matte painting
 ultra detailed
 award winning
-matte
 intricate details
 epic
 hdr
 extremely detailed
 very detailed
-oil painting
 dynamic lighting
 hyperdetailed
-oil on canvas
 high resolution
 sharp
 studio lighting
@@ -65,7 +57,6 @@ atmospheric
 d&d
 golden ratio
 wide angle
-anime
 golden hour
 detailed face
 rule of thirds
@@ -88,7 +79,6 @@ photo realistic
 photo
 vivid colors
 8 k resolution
-trending on art station
 futuristic
 high details
 high definition
@@ -98,8 +88,6 @@ movie still
 establishing shot
 surreal
 gothic
-3 d render
-unreal 5
 photograph
 sunset
 painting
@@ -168,9 +156,7 @@ uhd
 4k resolution
 cinematic shot
 breathtaking
-furaffinity
 trending
-rutkowski
 muted colors
 award - winning
 scary
@@ -179,7 +165,6 @@ super detailed
 smooth render
 vray
 vivid
-anime style
 volumetric
 blender
 film grain
@@ -236,7 +221,6 @@ male
 raw
 award-winning
 black background
-manga
 rain
 poster
 realistic shaded perfect face
